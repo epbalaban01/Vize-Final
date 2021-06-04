@@ -1,6 +1,7 @@
 # Vize-Final VB.Net
 
 ![Ek Açıklama 2021-06-04 214600](https://user-images.githubusercontent.com/42430554/120849110-5060bb80-c57e-11eb-81f5-fcf16932c84d.jpg)
+<br/>
 Bu program, .NET Framework sürüm 4.0'da Winforms UI ile VB.Net kodunda yazılmıştır.
 
 
