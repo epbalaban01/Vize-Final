@@ -1,0 +1,12 @@
+D:\Visual Studio Projeler\Proje\Proje\bin\Debug\Proje.exe.config
+D:\Visual Studio Projeler\Proje\Proje\bin\Debug\Proje.exe
+D:\Visual Studio Projeler\Proje\Proje\bin\Debug\Proje.pdb
+D:\Visual Studio Projeler\Proje\Proje\bin\Debug\Proje.xml
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.vbprojAssemblyReference.cache
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.Form1.resources
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.Resources.resources
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.vbproj.GenerateResource.cache
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.exe
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.xml
+D:\Visual Studio Projeler\Proje\Proje\obj\Debug\Proje.pdb
