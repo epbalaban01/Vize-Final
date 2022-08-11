@@ -1,4 +1,4 @@
-# Vize-Final
+# Vize / Final Hesaplama
 
 Bir çok üniversite öğrencisinin vize veya final notu daha kolay bir şekilde hesaplamak için yapılmıştır. Program Visual Studio 2017 ortamında Visual Basic programlama dili kullanarak geliştirilmiştir.
 
